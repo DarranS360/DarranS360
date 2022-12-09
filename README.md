@@ -1,10 +1,14 @@
-<link rel="stylesheet" href="styles.css" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css" />
+</head>
 <div class="sidebar">
   <img src="https://user-images.githubusercontent.com/116950436/206737077-f7b6b719-663c-4db9-bce7-23311402d178.png" alt="Sketch profile picture of Darran smiling" />
   <h3>Darran Smith</h3>
   <p>Your contact information goes here</p>
 </div>
-
+</html>
 
 
 
