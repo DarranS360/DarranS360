@@ -1,3 +1,5 @@
+<style>
+
 .sidebar {
    position: fixed;
    top: 0;
@@ -7,3 +9,5 @@
    padding: 20px;
    background-color: #eee;
   }
+
+</style>
