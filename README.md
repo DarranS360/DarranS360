@@ -54,8 +54,12 @@ that one day it'll be super professional.""")
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarranS360&theme=tokyonight)](https://git.io/streak-stats)
-[![Darran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarranS360&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darrans360&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Darran's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrans360)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrans360&theme=tokyonight)
+
 
 ### Projects :computer: 
 
