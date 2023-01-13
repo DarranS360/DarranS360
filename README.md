@@ -48,6 +48,7 @@ that one day it'll be super professional.""")
 </div>
 
  <br />
+ 
 - PROGRAMMING LANGUAGES: Python, HTML, CSS, JavaScript		
 - TECHNOLOGIES: MySQL, Git, Django
 - OTHER: Cloud software deployment, cloud services, development of custom software, databases, backend web dev
