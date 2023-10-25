@@ -72,7 +72,8 @@ that one day it'll be super professional.""")
 
 ### I’m currently learning 🌱...
 
-- I have just completed a bootcamp in Software Engineering covering mainly Python, touching on HTML, CSS, SQL, OOP, GIT, and NLP.
+- In my first year of a career change, doing a Software Developer apprenticeship.
+- I have completed a bootcamp in Software Engineering covering mainly Python, touching on HTML, CSS, SQL, OOP, GIT, and NLP.
 - I have also just finished a certificate with FreeCodeCamp on Responsive Web Design.
 - I am slowly working away at creating a Space Invaders clone using Pygame and Python.
 
