@@ -92,9 +92,9 @@ if about_me in ("yes", "no", "maybe", "who are you", "¿quién eres?"):
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darrans360&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Darran's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrans360&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Darran's GitHub stats](./profile/stats.svg)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrans360&theme=tokyonight&layout=compact)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
